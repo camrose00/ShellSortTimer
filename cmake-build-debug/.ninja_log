@@ -1,0 +1,5 @@
+# ninja log v5
+2	429	1663853911696526581	CMakeFiles/Program1.dir/C1.cpp.o	215ee6f4b3309754
+2	455	1663853911723351268	CMakeFiles/Program1.dir/ShellSort.cpp.o	c8de1c14b72d8e9d
+1	495	1663853911763004928	CMakeFiles/Program1.dir/main.cpp.o	eba6c8b48c770ea9
+495	535	1663853911804751321	Program1	137eeb1e47c94b8a

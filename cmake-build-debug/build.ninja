@@ -11,7 +11,7 @@
 # =============================================================================
 
 # =============================================================================
-# Project: Program1
+# Project: Prog1
 # Configurations: Debug
 # =============================================================================
 
@@ -39,7 +39,7 @@ include CMakeFiles/rules.ninja
 #############################################
 # Logical path to working directory; prefix for absolute paths.
 
-cmake_ninja_workdir = /Users/cameronrosenberger/CLionProjects/Algorithms/Program1/cmake-build-debug/
+cmake_ninja_workdir = /Users/cameronrosenberger/Downloads/GitHub/Algorithms/ShellSort/Algos_Prog1/cmake-build-debug/
 # =============================================================================
 # Object build statements for EXECUTABLE target Program1
 
@@ -49,19 +49,19 @@ cmake_ninja_workdir = /Users/cameronrosenberger/CLionProjects/Algorithms/Program
 
 build cmake_object_order_depends_target_Program1: phony || CMakeFiles/Program1.dir
 
-build CMakeFiles/Program1.dir/main.cpp.o: CXX_COMPILER__Program1_Debug /Users/cameronrosenberger/CLionProjects/Algorithms/Program1/main.cpp || cmake_object_order_depends_target_Program1
+build CMakeFiles/Program1.dir/main.cpp.o: CXX_COMPILER__Program1_Debug /Users/cameronrosenberger/Downloads/GitHub/Algorithms/ShellSort/Algos_Prog1/main.cpp || cmake_object_order_depends_target_Program1
   DEP_FILE = CMakeFiles/Program1.dir/main.cpp.o.d
   FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk -std=gnu++14
   OBJECT_DIR = CMakeFiles/Program1.dir
   OBJECT_FILE_DIR = CMakeFiles/Program1.dir
 
-build CMakeFiles/Program1.dir/C1.cpp.o: CXX_COMPILER__Program1_Debug /Users/cameronrosenberger/CLionProjects/Algorithms/Program1/C1.cpp || cmake_object_order_depends_target_Program1
+build CMakeFiles/Program1.dir/C1.cpp.o: CXX_COMPILER__Program1_Debug /Users/cameronrosenberger/Downloads/GitHub/Algorithms/ShellSort/Algos_Prog1/C1.cpp || cmake_object_order_depends_target_Program1
   DEP_FILE = CMakeFiles/Program1.dir/C1.cpp.o.d
   FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk -std=gnu++14
   OBJECT_DIR = CMakeFiles/Program1.dir
   OBJECT_FILE_DIR = CMakeFiles/Program1.dir
 
-build CMakeFiles/Program1.dir/ShellSort.cpp.o: CXX_COMPILER__Program1_Debug /Users/cameronrosenberger/CLionProjects/Algorithms/Program1/ShellSort.cpp || cmake_object_order_depends_target_Program1
+build CMakeFiles/Program1.dir/ShellSort.cpp.o: CXX_COMPILER__Program1_Debug /Users/cameronrosenberger/Downloads/GitHub/Algorithms/ShellSort/Algos_Prog1/ShellSort.cpp || cmake_object_order_depends_target_Program1
   DEP_FILE = CMakeFiles/Program1.dir/ShellSort.cpp.o.d
   FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk -std=gnu++14
   OBJECT_DIR = CMakeFiles/Program1.dir
@@ -88,7 +88,7 @@ build Program1: CXX_EXECUTABLE_LINKER__Program1_Debug CMakeFiles/Program1.dir/ma
 # Utility command for edit_cache
 
 build CMakeFiles/edit_cache.util: CUSTOM_COMMAND
-  COMMAND = cd /Users/cameronrosenberger/CLionProjects/Algorithms/Program1/cmake-build-debug && /Applications/CLion.app/Contents/bin/cmake/mac/bin/cmake -E echo No\ interactive\ CMake\ dialog\ available.
+  COMMAND = cd /Users/cameronrosenberger/Downloads/GitHub/Algorithms/ShellSort/Algos_Prog1/cmake-build-debug && /Applications/CLion.app/Contents/bin/cmake/mac/bin/cmake -E echo No\ interactive\ CMake\ dialog\ available.
   DESC = No interactive CMake dialog available...
   restat = 1
 
@@ -99,7 +99,7 @@ build edit_cache: phony CMakeFiles/edit_cache.util
 # Utility command for rebuild_cache
 
 build CMakeFiles/rebuild_cache.util: CUSTOM_COMMAND
-  COMMAND = cd /Users/cameronrosenberger/CLionProjects/Algorithms/Program1/cmake-build-debug && /Applications/CLion.app/Contents/bin/cmake/mac/bin/cmake --regenerate-during-build -S/Users/cameronrosenberger/CLionProjects/Algorithms/Program1 -B/Users/cameronrosenberger/CLionProjects/Algorithms/Program1/cmake-build-debug
+  COMMAND = cd /Users/cameronrosenberger/Downloads/GitHub/Algorithms/ShellSort/Algos_Prog1/cmake-build-debug && /Applications/CLion.app/Contents/bin/cmake/mac/bin/cmake --regenerate-during-build -S/Users/cameronrosenberger/Downloads/GitHub/Algorithms/ShellSort/Algos_Prog1 -B/Users/cameronrosenberger/Downloads/GitHub/Algorithms/ShellSort/Algos_Prog1/cmake-build-debug
   DESC = Running CMake to regenerate build system...
   pool = console
   restat = 1
@@ -115,7 +115,7 @@ build rebuild_cache: phony CMakeFiles/rebuild_cache.util
 # =============================================================================
 
 #############################################
-# Folder: /Users/cameronrosenberger/CLionProjects/Algorithms/Program1/cmake-build-debug
+# Folder: /Users/cameronrosenberger/Downloads/GitHub/Algorithms/ShellSort/Algos_Prog1/cmake-build-debug
 
 build all: phony Program1
 

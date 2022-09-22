@@ -4,7 +4,6 @@
 
 #include <iostream>
 #include "C1.h"
-
 static int comparableCount=0;
 
 C1::C1() {

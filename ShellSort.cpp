@@ -22,10 +22,15 @@ void ShellSort::shellSort(vector<C1> &varray, int code) {
             break;
         case 1:
             k = floor(log2(varray.size()));
-            for (int i = 0; i <= k; i++) {
+            for (int i = k; i>=0 ; i--) {
                 int gap = pow(2, i);
                 hlist.push_back(gap);
             }
+
+            for(int j=0;j<hlist.size();j++){
+                cout<<"H"<<hlist[j]<<" ";
+            }
+            cout<<endl;
             break;
         case 2:
             k = floor(log2(varray.size()));

@@ -1,4 +1,4 @@
-/Applications/CLion.app/Contents/bin/cmake/mac/bin/cmake -DCMAKE_BUILD_TYPE=Debug -DCMAKE_MAKE_PROGRAM=/Applications/CLion.app/Contents/bin/ninja/mac/ninja -G Ninja -S /Users/cameronrosenberger/CLionProjects/Algorithms/Program1 -B /Users/cameronrosenberger/CLionProjects/Algorithms/Program1/cmake-build-debug
+/Applications/CLion.app/Contents/bin/cmake/mac/bin/cmake -DCMAKE_BUILD_TYPE=Debug -DCMAKE_MAKE_PROGRAM=/Applications/CLion.app/Contents/bin/ninja/mac/ninja -G Ninja -S /Users/cameronrosenberger/Downloads/GitHub/Algorithms/ShellSort/Algos_Prog1 -B /Users/cameronrosenberger/Downloads/GitHub/Algorithms/ShellSort/Algos_Prog1/cmake-build-debug
 -- Configuring done
 -- Generating done
--- Build files have been written to: /Users/cameronrosenberger/CLionProjects/Algorithms/Program1/cmake-build-debug
+-- Build files have been written to: /Users/cameronrosenberger/Downloads/GitHub/Algorithms/ShellSort/Algos_Prog1/cmake-build-debug
